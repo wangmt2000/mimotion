@@ -11,7 +11,6 @@ import json
 import sys
 import time
 from urllib.parse import quote
-
 import requests
 
 now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
